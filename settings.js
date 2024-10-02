@@ -26,7 +26,7 @@ global.author = 'ᴇꜱ ᴛᴇᴀᴍꜱ-ᴛᴇᴄʜ👑\n\nContact: +23481876377
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "ES TEAMS Inc."
+global.wm = "EVIL SOCIETY Inc."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y'
