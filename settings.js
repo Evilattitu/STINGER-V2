@@ -17,7 +17,7 @@ global.socialm = "GitHub: paskito002"
 global.location = "Nigeria,land of seed,"
 
 global.ownernumber = '2347066939379'  //creator number
-global.ownername = 'DARK KNIGHT Ev' //owner name
+global.ownername = 'DARK KNIGHT DOOM' //owner name
 global.botname = 'EVIL ATTITUDE ∀' //name of the bot
 
 //sticker details
